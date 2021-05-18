@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/calidadAire/static/css/main.941290ee.chunk.css",
-    "main.js": "/calidadAire/static/js/main.7971f089.chunk.js",
-    "main.js.map": "/calidadAire/static/js/main.7971f089.chunk.js.map",
+    "main.js": "/calidadAire/static/js/main.6e0a1a73.chunk.js",
+    "main.js.map": "/calidadAire/static/js/main.6e0a1a73.chunk.js.map",
     "runtime-main.js": "/calidadAire/static/js/runtime-main.ec5fd889.js",
     "runtime-main.js.map": "/calidadAire/static/js/runtime-main.ec5fd889.js.map",
     "static/js/2.4f012418.chunk.js": "/calidadAire/static/js/2.4f012418.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.ec5fd889.js",
     "static/js/2.4f012418.chunk.js",
     "static/css/main.941290ee.chunk.css",
-    "static/js/main.7971f089.chunk.js"
+    "static/js/main.6e0a1a73.chunk.js"
   ]
 }
